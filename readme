@@ -1,0 +1,2 @@
+    这个工程的代码是从https://april.eecs.umich.edu/software/apriltag.html下载的，我将他改成了cmake的形式。并且我在这个代码中加上了三维坐标轴和一些小小的做法解释。apriltag图和结果都在Examples的image_tag36h11目录下。
+    我的系统是ubuntu16.04，这个工程只需要opencv的依赖。
